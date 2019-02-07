@@ -1,0 +1,65 @@
+@charset "UTF-8";
+
+body{
+	margin:0 auto;
+	width:1000px;
+	margin-top:10px;
+}
+.header{
+	background-color:#d8d8d8;
+	padding:5px;
+	text-align:center;	
+}
+.header h1{
+	font-size: 20px;
+}
+.main{
+	background-color:#f2f2f2;
+	text-align:center;
+	padding-top:10px;
+}
+table{
+	margin:0 auto;
+	border: 1px solid black;
+}
+.trHead{
+	background-color:#b3cccc;
+	font-weight:bold;
+}
+.trHeadIspis{
+	background-color:#b3cccc; 
+	font-weight:bold;
+}
+td{
+	border-right: 1px solid black;
+	padding:10px;
+}
+.marked{
+	color:red;
+	}
+.tdBody{
+	 border-right: 1px solid black; 
+	 padding:10px; 
+	 border-bottom: 1px solid black;
+}
+.trBodyCorrect{
+	 border-top: 1px solid black;
+}
+.button{
+	background-color:skyblue;
+	padding:5px;
+}
+.form{
+	padding:10px 0;
+}
+.error p{
+	font-weight:bold;
+	color:red;
+}
+.footer{
+	background-color:#d8d8d8;
+	padding:2px;
+	color:black;
+	text-align:center;
+	font-size:14px;
+}
