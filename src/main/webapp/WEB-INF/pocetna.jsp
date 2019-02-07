@@ -9,7 +9,6 @@
 	<link href="css/style.css" rel="stylesheet"/>
 </head>
 <body>
-<div class="wrapper">
 
 	<header class="header">
 		<h1>Podaci CSV</h1>
@@ -40,6 +39,6 @@
 	<footer class="footer">
 		<p>Web aplikacija za natječaj</p>
 	</footer>
-	</div>
+	
 </body>
 </html>
